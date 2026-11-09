@@ -1,0 +1,9 @@
+{
+  "name": "newton-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Isaac Newton web page served by Node.js",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,14 @@
+.git
+.github
+.vscode
+.idea
+node_modules
+npm-debug.log
+**/.npmrc
+.env
+.env.*
+*.md
+LICENSE
+Dockerfile
+compose.yaml
+.dockerignore
